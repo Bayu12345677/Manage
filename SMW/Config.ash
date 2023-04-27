@@ -1,5 +1,5 @@
-Server="NyHmaRFk"
+Server="NyHma"
 Whatsapp="IJqVQWOyBqX8BmNCu6Amhn"
-LinkTk="https://khaddavi.net/5ZGiJ7R1ktA"
+LinkTk="Script Telah di Nonaktifkan karena di salah gunakan"
 User="$(whoami)"
 date="$(date)"
