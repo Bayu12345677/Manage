@@ -1,4 +1,4 @@
-Server="NyHma"
+Server="Null"
 Whatsapp="IJqVQWOyBqX8BmNCu6Amhn"
 LinkTk="Script Telah di Nonaktifkan karena di salah gunakan"
 User="$(whoami)"
