@@ -1,5 +1,5 @@
-Server="NyHmaRFk"
+Server="i4cz7DfU"
 Whatsapp="IJqVQWOyBqX8BmNCu6Amhn"
-LinkTk="https://khaddavi.net/5ZGiJ7R1ktA"
+LinkTk="https://khaddavi.net/R8uBFit"
 User="$(whoami)"
 date="$(date)"
